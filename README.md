@@ -1,6 +1,6 @@
 # volatility-skills
 
-Claude Code / Claude skills for planning architecture around **volatility**
+Agent skills for planning architecture around **volatility**
 instead of domain nouns, and for catching review blockers before a human
 reviewer does.
 
